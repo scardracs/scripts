@@ -11,7 +11,7 @@ function pause() {
 }
 
 clear
-echo "This script is developed & tested by me (scardracs)"
+echo "This script is developed and tested by me (scardracs)"
 echo "for the Motorola Moto X Play/Pure/Style and distributed under GPL-2 license."
 echo "Feel free to use and/or modify it without limits."
 echo "I don't assume any responsibility if"
