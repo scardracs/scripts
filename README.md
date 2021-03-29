@@ -1,7 +1,8 @@
 # SCRIPTS for LUX, STYLE and PURE
 
-Hi everybody! These scripts are developed by me for flashing stock ROMs of these devices.
-You can use and/or modify without any limits but please provide to me proper credits.
+Hi everyone.
+These scripts are developed and tested by me and release under GPL-2 license.
+They are tested for flashing stock ROMs on devices posted above.
+They are NOT tested for other devices, but they *could* work too.
+You can use and/or modify without any limits.
 Any updates or suggestions will be appreciated!
-
-Remember: I've tested it only on the Motorola Moto X Play and I'm pretty sure they work on all 3 devices but I don't assume any responsibility for damages!
