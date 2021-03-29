@@ -2,7 +2,7 @@
 set -e
 
 if [ "$EUID" -ne 0 ]
-	then echo "Please be sure run this script as root"
+	then echo "Please be sure to run this script as root"
 	exit
 fi
 
