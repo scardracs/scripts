@@ -3,7 +3,7 @@ set -e
 
 if [ "$EUID" -ne 0 ]
 	then echo "Please be sure to run this script as root"
-	exit
+	exit 1
 fi
 
 function pause() {
