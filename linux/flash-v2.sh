@@ -55,7 +55,7 @@ read A
 clear
 
 echo "Before flashing be sure to have downloaded the RIGHT file for your device."
-echo "This process WON'T be reversible."
+echo "This process IS NOT reversible."
 echo "Press any key to continue..."
 pause
 clear
